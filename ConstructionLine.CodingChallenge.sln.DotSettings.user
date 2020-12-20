@@ -1,0 +1,6 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7e9a259f_002Ddfe8_002D40e3_002Db370_002Dffff740b3adc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Search_Shirts_Empty_Red_Color_Small_Size_SearchOptions_Should_Return_RedSmallShirt" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F4FB1EE4-AD05-47CB-BF1A-EE8ADEE75BA6::.NETCoreApp,Version=v2.2::ConstructionLine.CodingChallenge.Tests.SearchEngineTests.Search_Shirts_Empty_Red_Color_Small_Size_SearchOptions_Should_Return_RedSmallShirt&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
